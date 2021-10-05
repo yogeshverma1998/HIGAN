@@ -10,3 +10,5 @@ To train the HIGAN model, change the location of dataset and model save path in 
 ```js
 python Train.py
 ```
+
+# Evaluation
