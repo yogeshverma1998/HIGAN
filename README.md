@@ -12,3 +12,4 @@ python Train.py
 ```
 
 # Evaluation
+One can test the saved GAN model by evaluating [generate_event.py](https://github.com/yogeshverma1998/HIGAN/blob/main/generate_event.py) to generate events by GAN and modifying [Plot.py](https://github.com/yogeshverma1998/HIGAN/blob/main/Plot.py) to plot the various variables. 
